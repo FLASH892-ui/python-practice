@@ -17,8 +17,14 @@ This repository documents my daily Python practice, focusing on building strong 
 - Functions & Scope
 - Lists & Basic Data Structures
 
-**Project:**
-- Basic Calculator - A command-line calculator supporting arithmetic operations
+**Projects:**
+1. Prime Range - Find all prime numbers up to n
+2. Armstrong Number - Check if a number is Armstrong
+3. Pattern Generator - Create numeric patterns
+4. Calculator - Multi-operation calculator with loop
+5. Password Checker - Validate password strength
+6. Decimal to Binary - Number system conversion
+7. Second Largest - Find second largest in array
 
 ### Day 2: Coming Soon
 ### Day 3: Coming Soon
@@ -36,8 +42,7 @@ This repository documents my daily Python practice, focusing on building strong 
 ```
 python-practice/
 ├── day01/
-│   ├── fundamentals/
-│   └── projects/
+│   └── main.py
 ├── README.md
 └── ...
 ```
